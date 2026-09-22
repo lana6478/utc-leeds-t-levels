@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" width="640" height="280" role="img" aria-label="Illustration of a central hub node connected to three icons: a shield, a code bracket, and a gear, representing three linked study-guide sites">
+  <rect width="640" height="280" rx="10" fill="#eaf3ff"/>
+  <g stroke="#a9c8f0" stroke-width="2" fill="none">
+    <line x1="320" y1="140" x2="150" y2="70"/>
+    <line x1="320" y1="140" x2="150" y2="210"/>
+    <line x1="320" y1="140" x2="490" y2="140"/>
+  </g>
+
+  <!-- central hub -->
+  <g transform="translate(320,140)">
+    <circle r="34" fill="#0645ad"/>
+    <circle r="14" fill="#eaf3ff"/>
+  </g>
+
+  <!-- shield: digital support and security -->
+  <g transform="translate(112,40)">
+    <path d="M26 0 L50 9 V32 C50 47 39 57 26 62 C13 57 2 47 2 32 V9 Z" fill="#0645ad"/>
+    <path d="M17 31 L23 37 L36 22" fill="none" stroke="#eaf3ff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="150" y="122" text-anchor="middle" font-size="13" fill="#54595d" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Digital Support &amp; Security</text>
+
+  <!-- code brackets: software development -->
+  <g transform="translate(112,180)">
+    <path d="M14 2 C4 2 0 8 0 18 C0 26 -3 28 -3 31 C-3 34 0 36 0 44 C0 54 4 60 14 60" fill="none" stroke="#0645ad" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M38 2 C48 2 52 8 52 18 C52 26 55 28 55 31 C55 34 52 36 52 44 C52 54 48 60 38 60" fill="none" stroke="#0645ad" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="150" y="262" text-anchor="middle" font-size="13" fill="#54595d" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Digital Software Development</text>
+
+  <!-- gear: engineering -->
+  <g transform="translate(520,140)" fill="#0645ad">
+    <g>
+      <rect x="-6" y="-42" width="12" height="16" rx="2"/>
+      <rect x="-6" y="26" width="12" height="16" rx="2"/>
+      <rect x="-42" y="-6" width="16" height="12" rx="2"/>
+      <rect x="26" y="-6" width="16" height="12" rx="2"/>
+    </g>
+    <g transform="rotate(45)">
+      <rect x="-6" y="-42" width="12" height="16" rx="2"/>
+      <rect x="-6" y="26" width="12" height="16" rx="2"/>
+      <rect x="-42" y="-6" width="16" height="12" rx="2"/>
+      <rect x="26" y="-6" width="16" height="12" rx="2"/>
+    </g>
+    <circle r="32" fill="#0645ad"/>
+    <circle r="13" fill="#eaf3ff"/>
+  </g>
+  <text x="520" y="200" text-anchor="middle" font-size="13" fill="#54595d" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Design &amp; Development</text>
+  <text x="520" y="216" text-anchor="middle" font-size="13" fill="#54595d" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">for Engineering and Manufacturing</text>
+</svg>
