@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Mechanical gear">
+  <g transform="translate(32,32)" fill="#0645ad">
+    <g>
+      <rect x="-6" y="-30" width="12" height="14" rx="2"/>
+      <rect x="-6" y="16" width="12" height="14" rx="2"/>
+      <rect x="-30" y="-6" width="14" height="12" rx="2"/>
+      <rect x="16" y="-6" width="14" height="12" rx="2"/>
+    </g>
+    <g transform="rotate(45)">
+      <rect x="-6" y="-30" width="12" height="14" rx="2"/>
+      <rect x="-6" y="16" width="12" height="14" rx="2"/>
+      <rect x="-30" y="-6" width="14" height="12" rx="2"/>
+      <rect x="16" y="-6" width="14" height="12" rx="2"/>
+    </g>
+    <circle r="23" fill="#0645ad"/>
+    <circle r="9" fill="#eaf3ff"/>
+  </g>
+</svg>
